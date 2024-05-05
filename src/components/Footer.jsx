@@ -36,7 +36,7 @@ const Footer = () => {
         </div>
         <div className="flex items-center justify-center flex-wrap gap-4">
           <p className="w-full font-normal text-[14px] text-white opacity-50 text-center items-center">
-            © 2023 NFIRC. All rights reserved
+            © 2024 NFIRC. All rights reserved
           </p>
           <div className="flex gap-4">
             <a href='https://www.instagram.com/nfirc_1st/' target='_blank' rel='noopener noreferrer'>                
